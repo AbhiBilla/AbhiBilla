@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AbhiBilla
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Btech CSE
-- 💞️ I’m looking to collaborate on AI internships
+- 💞️ I’m looking to collaborate on AI feilds
 - 📫 How to reach me billaabhi258@gmail.com
 
 <!---
